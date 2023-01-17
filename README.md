@@ -1,1 +1,1 @@
-# betscrape-frontend
+Frontend page for managing bet scrapers.
